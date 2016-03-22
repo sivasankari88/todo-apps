@@ -1,4 +1,4 @@
-# bluemix-todo-apps - node overview
+## bluemix-todo-apps - node overview
 
 TodoMVC using Backbone, CouchDB/MongoDB and a node back-end, running on Bluemix.
 
