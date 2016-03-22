@@ -1,4 +1,4 @@
-{
+#{
     "name":                 "bluemix-todo-apps-node",
     "main":                 "./lib/server",
     "description":          "node server for TodoMVC using CouchDB or Mongo for storage",
